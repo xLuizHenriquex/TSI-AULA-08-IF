@@ -1,0 +1,41 @@
+body{
+        background-image: url(../asset/images/Verde.png);background-color: aliceblue;
+        background-size: 100% 80px ; 
+        background-position:top;
+        background-repeat: no-repeat;
+    }
+
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        color: #000000;
+        text-align: center;
+        font-size: 35px;}    
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        color: #000000;
+        text-align: center;
+        margin-right: 400px;
+        margin-left: 400px;
+        word-wrap: break-word;
+        font-size: 18px;
+    }
+    h2{
+        font-family: 'EB Garamond', serif;
+        color: #000000;
+        font-size: 24px;
+        text-align: center;
+        margin-right: 400px;
+        margin-left: 400px;
+        word-wrap: break-word;
+        }
+    a{
+        font-family: 'arial', sans-serif;
+        font-size: 18px;
+        color: #524fe1;
+        text-align: center;
+        margin-right: 400px;
+        margin-left: 400px;
+        word-wrap: break-word;
+        font-size: 18px;
+        letter-spacing: 3px;
+        line-height: 30px;}
